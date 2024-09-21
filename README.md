@@ -5,7 +5,7 @@ A sorting algorithm visualizer is a tool or program that helps visualize the pro
 
 ## Available Scripts
 
-* Live website available at : ```https://km-sorting-alogrithm-visualizer.netlify.app/```
+* Live website available at : ```https://algovson.netlify.app/```
 
 ## Sorting algorithms Covered :
 * ###  Merge Sort
@@ -14,7 +14,7 @@ A sorting algorithm visualizer is a tool or program that helps visualize the pro
 
 
 ## To run on local system :
-* GIT clone the repo from : ```https://github.com/SH7072/Sorting-Algorithm-Visualizer```
+* GIT clone the repo from : ```https://github.com/avinashsaroj01/AlgoVision.git```
 
 * To install the dependencies run : ```npm i```
 
